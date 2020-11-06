@@ -29,3 +29,8 @@ Description: Works the same as [hyperlink, except this is shorter to type :)
 Example: [HL, https://www.website.com/, Link Name
 
 Output: An embed with as title the Link Name and as URL the link provided. Beneath the hyperlink it will show the senders username and tag.
+
+<br></br>
+**Result Image:**
+<br></br>
+![Result Image](https://cdn.discordapp.com/attachments/774050745481166868/774292123276410900/unknown.png)
