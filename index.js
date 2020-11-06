@@ -56,5 +56,3 @@ bot.on('message', (msg) => {
                 msg.channel.send(helpEmbed)
     }
 })
-
-//https://discord.com/oauth2/authorize?client_id=773998786119991313&scope=bot&permissions=8
